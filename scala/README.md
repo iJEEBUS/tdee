@@ -1,2 +1,5 @@
-# tdee-scala
-Simple total daily exercise expenditure calculator developed in Scala.
+# Scala
+Total daily exercise expenditure calculator developed in Scala.
+
+- [X] Calculations
+- [ ] GUI
