@@ -1,2 +1,5 @@
-# tdee-python-notebook
-Write up of TDEE calculator that's written in a .ipynb
+# Python Notebook
+Total daily exercise expenditure calculator developed in a Interactive Python Notebook.
+
+- [X] Calculations
+- [ ] GUI
