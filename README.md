@@ -1,7 +1,7 @@
 # Total Daily Exercise Expenditure
 
 ### Languages included:
-- [X] JavaScript
+- [X] JavaScript (https://tdee-f5ef5.web.app/)
 - [X] Java
 - [X] Scala
 - [X] Python
